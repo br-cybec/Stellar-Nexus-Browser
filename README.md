@@ -4,6 +4,7 @@ Navegador Web Ligero escrit0 en C++ y QT del navegador web enfocada en la ligere
 
 Es desarrollado, empaquetado y distribuido por GBonachea bajo B&R.Corp y ART Ripoll (art.ripoll@aol.com)
 
+
 ## Dependencias
 
 | Package | Ubuntu/Debian | Fedora/RHEL |
