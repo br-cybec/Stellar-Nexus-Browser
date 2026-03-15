@@ -4,7 +4,7 @@ Navegador Web Ligero escrit0 en C++ y QT del navegador web enfocada en la ligere
 
 Es desarrollado, empaquetado y distribuido por GBonachea bajo B&R.Corp y ART Ripoll (art.ripoll@aol.com)
 
-
+<img width="1366" height="731" alt="stellar" src="https://github.com/user-attachments/assets/9c0ced6f-e899-457e-89aa-9096214f30f1" />
 ## Dependencias
 
 | Package | Ubuntu/Debian | Fedora/RHEL |
